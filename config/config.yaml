@@ -1,4 +1,0 @@
-debug: true
-port: "8080"
-api_version: "1"
-database_path: "./database/data.db"
